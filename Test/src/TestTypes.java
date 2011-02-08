@@ -72,6 +72,10 @@ public class TestTypes {
 		 if(ii==1  & j==2)
 		  System.out.println("OK");
 		
+		//test to check if the following will work
+
+		//if(ii==1 &| j==2)
+		//System.out.println("worked");
 		
 	}
 
