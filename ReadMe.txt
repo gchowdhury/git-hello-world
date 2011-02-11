@@ -5,4 +5,3 @@ Also added test case for testing inclusive or/and.
 Deleted the .class file.
 Adding something to test new branch hello-world-branch1.
 Adding some text ...
-now I am going to revert some changes.
