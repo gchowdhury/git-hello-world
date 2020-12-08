@@ -14,5 +14,3 @@ Push to Branch 1
 Branch 1 test
 
 Update1
-
-Gud even
