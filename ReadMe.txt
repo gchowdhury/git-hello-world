@@ -9,12 +9,11 @@ TEST TEST TEST
 
 Good Noon
 
-<<<<<<< HEAD
+
 Branch1 gud mrng.,
 
 Branch2 gud mrng.,
-=======
+
 Branch 2 test
 
 all is well
->>>>>>> Branch2
