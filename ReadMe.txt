@@ -24,3 +24,7 @@ Branch 1 test
 
 Update1
 
+<<<<<<< HEAD
+=======
+Gud even
+>>>>>>> Brach1
