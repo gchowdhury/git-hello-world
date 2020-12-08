@@ -23,6 +23,7 @@ Push to Branch 1
 
 Branch 1 test
 
+<<<<<<< HEAD
 Update1
 
 <<<<<<< HEAD
@@ -34,3 +35,6 @@ Branch 3 test
 
 Update3
 >>>>>>> Brach3
+=======
+Update1
+>>>>>>> e478f113d04cb50c9f38fe70b6c644713799de86
