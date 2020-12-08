@@ -9,6 +9,7 @@ TEST TEST TEST
 
 Good Noon
 
+<<<<<<< HEAD
 
 
 Branch1 gud mrng.,
@@ -28,3 +29,8 @@ Update1
 =======
 Gud even
 >>>>>>> Brach1
+=======
+Branch 3 test
+
+Update3
+>>>>>>> Brach3
