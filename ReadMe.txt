@@ -41,4 +41,14 @@ Adventure TIN TIN
 
 
 Update1
+
+
+
+
+
+
+Push & boot
+
+Tom cat
+
 >>>>>>> e478f113d04cb50c9f38fe70b6c644713799de86
